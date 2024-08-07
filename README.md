@@ -1,3 +1,3 @@
 # README
 
-more info coming soon!
+This is the readme file for my website.
