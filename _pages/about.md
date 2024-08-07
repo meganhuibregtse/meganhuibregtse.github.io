@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Megan Huibregtse's academic personal website"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
