@@ -21,4 +21,4 @@ My work and training have been supported by the following organizations:
 
 **NIH/National Institute of Mental Health**
 
-<img src="../images/NIH-NIMH-logo-new.jpg" width="100">
+<img src="../images/NIH-NIMH-logo-new.png" width="100">
