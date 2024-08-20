@@ -17,8 +17,8 @@ My work and training have been supported by the following organizations:
 
 **Indiana Clinical and Translational Sciences Institute**
 
-<img src="../images/logo.jpg" width="100">
+<img src="../images/logo.jpg" width="200">
 
 **NIH/National Institute of Mental Health**
 
-<img src="../images/NIH-NIMH-logo-new.png" width="100">
+<img src="../images/NIH-NIMH-logo-new.png" width="200">
