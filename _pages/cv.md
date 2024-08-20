@@ -2,8 +2,9 @@
 layout: archive
 title: "CV"
 author_profile: true
-newtab: true
-permalink: /files/CV_Huibregtse.pdf
+permalink: /cv/
 redirect_from:
   - /resume
 ---
+
+<embed src="{{ site.baseurl }}/files/CV_Huibregtse.pdf" width="600" height="700" type='application/pdf'> 
