@@ -17,8 +17,8 @@ My work and training have been supported by the following organizations:
 
 **Indiana Clinical and Translational Sciences Institute**
 
-<img src="https://github.com/meganhuibregtse/meganhuibregtse/github.io/blob/master/images/logo.jpg" width="100">
+<img src="../images/logo.jpg" width="100">
 
 **NIH/National Institute of Mental Health**
 
-<img src="https://github.com/meganhuibregtse/meganhuibregtse/github.io/blob/master/images/NIH-NIMH-logo-new.jpg" width="100">
+<img src="../images/NIH-NIMH-logo-new.jpg" width="100">
