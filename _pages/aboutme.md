@@ -15,8 +15,10 @@ I just started my third year as a postdoctoral fellow at Emory University, where
 
 My work and training have been supported by the following organizations:
 
-Indiana Clinical and Translational Sciences Institute
+**Indiana Clinical and Translational Sciences Institute**
 
+<img src="https://github.com/meganhuibregtse/meganhuibregtse/github.io/blob/main/images/logo.jpg" width="100">
 
-NIH/National Institute of Mental Health
+**NIH/National Institute of Mental Health**
 
+<img src="https://github.com/meganhuibregtse/meganhuibregtse/github.io/blob/main/images/NIH-NIMH-logo-new.jpg" width="100">
