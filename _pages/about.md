@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Megan, and I'm currently a postdoc at Emory University. On this site, you can find my [CV]: {% link cv.md %}, [bio]: {% link aboutme.md %}, and [research interests}: {% link research.md %}. 
+Hi! My name is Megan, and I'm currently a postdoc at Emory University. On this site, you can find my [CV](cv.md), [bio](aboutme.md), and [research interests](research.md). 
