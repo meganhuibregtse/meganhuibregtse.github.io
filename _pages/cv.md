@@ -3,10 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+cv_pdf: CV_Huibregtse.pdf
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
-<object data="files/CV_Huibregtse.pdf" width="1000" height="1000" type='application/pdf'></object>
