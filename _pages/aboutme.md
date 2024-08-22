@@ -13,7 +13,10 @@ My interest in traumatic brain injury was sparked by a series of sports-related 
 
 I just started my third year as a postdoctoral fellow at Emory University, where I work with Dr. Jennifer Stevens and the [Grady Trauma Project (GTP)](https://www.gradytraumaproject.com/). GTP is a large, ongoing research study of the effects of stress and trauma-related risk and resiliency factors for post-traumatic stress disorder (PTSD). To date, GTP has recruited over 12,000 participants from Grady Memorial Hospital and the greater Atlanta area. GTP conducts both observational and intervention-based studies, including a transcraninal magnetic stimulation (TMS) treatment study for individuals with PTSD and a longitudinal study of changes in threat-related hyperarousal across perimenopause ([CHAPTERS](https://www.gradytraumaproject.com/chapters-study)). As a member of the CHAPTERS study team, I oversee the weekly menstrual cycle tracking and reproductive stage coding. My primary postdoctoral research project, funded by my postdoctoral NRSA (F32MH134528), focuses on sex differences in structural and functional connectivity in trauma survivors. This project uses data from the [AURORA/DISENTANGLE Study](https://www.med.unc.edu/itr/aurora-study/), a multi-site, longitudinal study of trauma survivors recruited from emergency departments. I'm specifically interested in sex-specific associations between connectivity and peripheral levels of glial fibrillary acidic protein (GFAP), a protein expressed by astrocytes and released following neurotrauma, and how this relates to symptom burden and health-related quality of life. 
 
-My work and training have been supported by the following organizations:
+Outside of work, I enjoy running, playing with my dogs, spending time with my family and friends, baking bread, and gardening.
+
+##### FUNDING
+My research and training have been supported by the following organizations:
 
 **Indiana Clinical and Translational Sciences Institute**
 
