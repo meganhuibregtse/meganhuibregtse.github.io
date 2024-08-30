@@ -29,8 +29,6 @@ At the Grady Trauma Project, I contributed to an analysis of how early life stre
 ## 4. Effects of trauma exposure across reproductive aging
 Part of my postdoctoral training has focused on reproductive aging and understanding how and why PTSD symptomology is exacerbated by perimenopause. Perimenopause is characterized by irregular menstrual cycle patterns, hormonal flucuations, and bothersome symptoms, such as hot flashes, sleep disturbances, night sweats, and mood changes. We observed worse PTSD symptoms—specically in the hyperarousal cluster—among women aged 40-55, relative to younger and older women (Michopoulos, Huibregtse et al., 2023 *Menopause*).   
 
-One of my current projects is the development of a reproducible, semi-automated pipeline to convert prospective cycle tracking data into STRAW+10 reproductive stages, so that we can assess alterations in the neural circuitry underlying threat-related hyperarousal across the stages of perimenopause. 
-
 
 ***
 *<sup>#</sup>: co-first authors*
